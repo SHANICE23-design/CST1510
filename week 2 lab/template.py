@@ -11,6 +11,8 @@ Run it:   python template.py
 Work through the numbered sections in order. Each one tells you what it must do.
 Delete these instructions as you replace them with your code.
 """
+"""Creating a program that uses a decisions to be able to output status of the users input in a formatted  report
+"""
 
 data_set_name = input("please enter  dataset name :")     
 rows_loaded = float(input("please enter rows loaded :"))   
