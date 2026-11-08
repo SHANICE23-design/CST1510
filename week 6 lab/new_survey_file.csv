@@ -1,0 +1,7 @@
+dataset,rows_loaded,rows_expected,percent,status
+srv-01,45,100,45.0,OK
+srv-02,56,100,56.00000000000001,OK
+srv-03,89,100,89.0,OK
+srv-04,101,100,101.0,OVER LIMIT
+srv-05,95,100,95.0,WARNING
+srv-06,120,100,120.0,OVER LIMIT
