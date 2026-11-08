@@ -1,5 +1,0 @@
-survey_2020, rating= 40,age=80
- survey_2021, rating= 45,age=50
- Survey_2022, rating= 20,age=80 
-survey_2023, Rating= 54,age=60
- survey_2024, rating= 20,Age=40
